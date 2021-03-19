@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "match": "^1.2.10",
+    "matchjs": "0.0.1",
+    "mathjs": "^8.1.0"
+  },
+  "devDependencies": {
+    "mongoose": "^5.11.4"
+  }
+}
